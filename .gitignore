@@ -1,0 +1,7 @@
+# Unfinished/alpha ideas
+alpha
+_site
+.sass-cache
+startBrowserSync.sh
+startJekyllBuild.sh
+Gemfile.lock
