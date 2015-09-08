@@ -1,7 +1,17 @@
+---
+layout: post
+title: Current Fitness Favorites
+img: Fitness.jpg
+exerpt: Anyone else *super* hype on fitness lately?! Lately, I have been on a huge fitness boost!
+---
+
+
 CURRENT FITNESS FAVORITES
 ---
 
 Anyone else *super* hype on fitness lately?! Lately, I have been on a huge fitness boost- working out regularly and sticking to a healthy diet 80% or so of the time (the other 20% I have been trying all sorts of new foods!). I would love to share with you all my current fitness favorites from clothes to workouts to entertainment. Maybe something I talk about will be of interest to you and maybe even inspire you to get your booty to the gym!
+
+![Fitness](/assets/images/Fitness.jpg "Title")
 
 ##CLOTHING AND FOOTWEAR
 Over the last month I have acquired a few pieces of clothing that I have fallen in love with.  I honestly have wanted to wear them every time I work out… but that would be a little smelly, wouldn’t it?!
