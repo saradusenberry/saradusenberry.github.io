@@ -2,21 +2,19 @@
 layout: default
 topNumber: 3
 ---
-<div class="container marketing">
-  <!-- Three most recent posts -->
-  <div class="row">
-    {% for post in site.posts limit:page.topNumber %}
-      <div class="col-lg-4">
-        <img class="img-circle" src="../assets/images/{{ post.img }}" alt="Generic placeholder image" width="140" height="140">
-        <h2>{{ post.title }}</h2>
-        <p>{{ post.excerpt }}</p>
-        <p><a class="btn btn-default" href="{{ post.url | prepend: site.baseurl }}" role="button">View Post &raquo;</a></p>
-      </div>
-    {% endfor %}
-  </div>
+<!-- Three most recent posts -->
+<div class="row marketing">
+  {% for post in site.posts limit:page.topNumber %}
+    <div class="col-lg-4">
+      <img class="img-circle" src="../assets/images/{{ post.img }}" alt="Generic placeholder image" width="140" height="140">
+      <h2>{{ post.title }}</h2>
+      <p>{{ post.excerpt }}</p>
+      <p><a class="btn btn-default" href="{{ post.url | prepend: site.baseurl }}" role="button">View Post &raquo;</a></p>
+    </div>
+  {% endfor %}
 </div>
 
-<div class="container">
+<div class="row">
   <!-- Remaining posts -->
   {% if site.posts.size > page.topNumber %}
     <h1 class="page-heading">Other Posts</h1>
