@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Places You Must Check Out While in Lake Tahoe
-img: Tahoe.jgp
+img: Tahoe.jpg
 excerpt: Tips on lodging, dining, and recreational activities to indulge in while exploring Lake Tahoe.
 style: |
     img[alt=Basecamp1] {
