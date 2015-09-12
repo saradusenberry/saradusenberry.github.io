@@ -4,9 +4,15 @@
 }
 
 // Posts should be justified.
-article {
+article > p {
   text-align: justify;
 }
+
+// Social Media Colors
+$twitter: #00aced;
+$instagram: #517fa4;
+$facebook: #3b5998;
+$pinterest: #cb2027;
 
 // /**
 //  * Set `margin-bottom` to maintain vertical rhythm

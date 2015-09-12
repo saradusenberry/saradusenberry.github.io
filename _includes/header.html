@@ -10,7 +10,7 @@
       </button>
     </div>
     <nav class="navbar-collapse collapse">
-      <ul class="nav navbar-nav navbar-right">
+      <ul class="nav navbar-nav">
         {% for page in site.pages %}
           {% if page.title %}
             {% if page.title != "404" %}
@@ -18,6 +18,14 @@
             {% endif %}
           {% endif %}
         {% endfor %}
+      </ul>
+      <ul class="nav navbar-nav navbar-right social">
+        <li>
+            <a class="twitter" href="https://twitter.com/saradusenberry" target="_blank"><i class="fa fa-twitter"></i></a>
+            <a class="instagram"href="https://instagram.com/saradusenberry" target="_blank"><i class="fa fa-instagram"></i></a>
+            <a class="facebook"href="https://www.facebook.com/sara.hines.1000" target="_blank"><i class="fa fa-facebook"></i></a>
+            <a class="pinterest"href="https://pinterest.com/saradusenberry" target="_blank"><i class="fa fa-pinterest"></i></a>
+        </li>
       </ul>
     </nav>
   </div>
