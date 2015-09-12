@@ -31,7 +31,7 @@ Over the last month I have acquired a few pieces of clothing that I have fallen 
 The first clothing item I have been loving are these [Nike running cropped tights](http://www.dickssportinggoods.com/product/index.jsp?productId=54998526&cp=4406646.4413874.4413879.4414447&categoryId=4414771&fg=Fit).  In general, Nike comes out with amazing athletic wear and it is difficult for me to find something by them that I don’t long for.  I have a similar printed pair, but since this pair is black, they are more versatile and I can throw on any top with them.
 
 {:.center}
-![Nike]( "Title")
+![Nike](/assets/images/Nike.jpg "Title")
 
 ###2. Brooks Launch 2 Running Shoes
 I have been searching for a new pair of shoes for quite some time.  Over the last year or more I have stuck to really light-weight “barefoot” style shoes like Nike Free Runs.  Though these shoes are super comfortable, I was looking for something with a little more support and to change it up a bit.  I ended up going for the [Brooks Launch 2](http://www.zappos.com/brooks-launch-2-mako-black) in black and white.  These shoes are super comfortable and the materials are really good quality.  I have only been able to run in them once, due to an ongoing foot injury, but I have loved them for cross training and everyday wear.
