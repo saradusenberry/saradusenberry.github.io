@@ -1,67 +1,109 @@
+/* Global */
+body {
+  padding-top: 51px !important; /* for fixed Bootstrap header */
+}
 // Centered container
 .center {
-    text-align:center;
+    text-align:center !important;
 }
-
-// Posts should be justified.
-article > p {
-  text-align: justify;
-}
-
-// Social Media Colors
-$twitter: #00aced;
-$instagram: #517fa4;
-$facebook: #3b5998;
-$pinterest: #cb2027;
-
-// /**
-//  * Set `margin-bottom` to maintain vertical rhythm
-//  */
-// h1, h2, h3, h4, h5, h6,
-// p, blockquote, pre,
-// ul, ol, dl, figure,
-%vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
-}
-
-/**
- * Images
- */
+// Images
 img {
     max-width: 100%;
-    vertical-align: middle;
 }
 
-/**
- * Wrapper
- */
-.wrapper {
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
-    @extend %clearfix;
+/* Social */
+.social {
+  font-size: 1.5em;
+  margin-right: 0;
 
-    @include media-query($on-laptop) {
-        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-        padding-right: $spacing-unit / 2;
-        padding-left: $spacing-unit / 2;
-    }
+  > li > a {
+    display: inline-block;
+  }
+}
+.twitter:hover {
+  color: $twitter !important;
+}
+.instagram:hover {
+  color: $instagram !important;
+}
+.facebook:hover {
+  color: $facebook !important;
+}
+.pinterest:hover {
+  color: $pinterest !important;
 }
 
+/* Carousel */
+.carousel {
+  height: 15em;
+  margin-bottom: 3em;
+}
+// Since positioning the image, we need to help out the caption
+.carousel-caption {
+  z-index: 10;
+}
+// Declare heights because of positioning of img element
+.carousel .item {
+  height: 15em;
+  background-color: #777;
+}
+.carousel-inner > .item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 15em;
+}
 
+/* Page content */
+.page-content {
+  padding: $spacing-unit 0;
+}
+.page-heading {
+  font-size: 20px;
+}
+.posts .col-md-4 {
+  margin-bottom: 1.5em;
+  text-align: center;
+}
+.posts h2 {
+  font-weight: normal;
+}
+.post-list {
+  margin-left: 0;
+  list-style: none;
 
-/**
- * Clearfix
- */
-%clearfix {
+  > li {
+    margin-bottom: $spacing-unit;
+  }
+}
+.post-meta {
+  font-size: $small-font-size;
+  color: $grey-color;
+}
+.post-link {
+  color: inherit;
+}
+.post-link:hover {
+    color: inherit;
+    text-decoration: none;
 
-    &:after {
-        content: "";
-        display: table;
-        clear: both;
+    > div > .img-circle {
+      border-radius: 15%;
     }
+}
+.img-circle {
+  transition: border-radius 0.3s ease;
+}
+
+/* Post Content */
+.post-header {
+  margin-bottom: $spacing-unit;
+  text-align: center;
+}
+// Posts should be justified.
+.post-content {
+  > p {
+    text-align: justify;
+  }
 }

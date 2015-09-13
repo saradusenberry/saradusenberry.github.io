@@ -3,7 +3,11 @@
 ---
 @charset "utf-8";
 
-
+// Social Media Colors
+$twitter: #00aced;
+$instagram: #517fa4;
+$facebook: #3b5998;
+$pinterest: #cb2027;
 
 // Our variables
 $base-font-family: Helvetica, Arial, sans-serif;
@@ -11,7 +15,7 @@ $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
-$spacing-unit:     30px;
+$spacing-unit:     2em;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
@@ -27,8 +31,6 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-
-
 // Using media queries with like this:
 // @include media-query($on-palm) {
 //     .wrapper {
@@ -42,11 +44,5 @@ $on-laptop:        800px;
     }
 }
 
-
-
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
+@import "base";
