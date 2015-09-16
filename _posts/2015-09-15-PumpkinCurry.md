@@ -22,10 +22,8 @@ With the excitement of this season kicking off (see what I did there?!), I have 
 {:.center}
 ![PumpkinCurry](/assets/images/PumpkinCurry.jpg "PumpkinCurry")
 
-Picture of Finished Curry
-
 >##Vegetarian Pumpkin Curry
-*Ingredients:*
+>*Ingredients:*
 >
 >•	1 tablespoon coconut oil
 >
