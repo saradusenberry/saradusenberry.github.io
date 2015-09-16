@@ -1,10 +1,16 @@
 ---
 layout: post
 title: Pumpkin Curry Recipe to Fall For
-img: Fitness.jpg
+img: PumpkinCurry3.jpg
 excerpt: It’s that time of year… PUMPKIN season!
 style: |
-    img[alt=Fitness] {
+    img[alt=PumpkinCurry] {
+      width: 40em;
+    }
+    img[alt=PumpkinCurry2] {
+      width: 40em;
+    }
+    img[alt=PumpkinCurry3] {
       width: 40em;
     }
 ---
@@ -12,6 +18,9 @@ style: |
 It’s that time of year… PUMPKIN season! Like so many others, Fall is my absolute favorite season. I love the food and beverages associated with the season, the weather, and the overall vibe- sweaters, hot beverages, blankets.  I mean football, family, friends, and food- all of the great F’s! It’s really easy to understand why so many people enjoy this time of year. 
 
 With the excitement of this season kicking off (see what I did there?!), I have been searching for new recipes to give a go and came across a pumpkin curry recipe.  I have included my spin on this recipe in this post to share with you all. This recipe was of interest to me because it is vegetarian, healthy, and packed with some of my favorite ingredients- pumpkin, coconut milk, and curry!  
+
+{:.center}
+![PumpkinCurry](/assets/images/PumpkinCurry.jpg "PumpkinCurry")
 
 Picture of Finished Curry
 
@@ -51,3 +60,9 @@ Picture of Finished Curry
 >3. Add tomatoes, pumpkin puree, water, coconut milk, black beans, garbanzo beans, red curry paste, honey or agave, and cayenne (optional) to pan.  Stir well and allow ingredients to combine and simmer for 15 minutes.
 
 >4. Serve over quinoa or rice.
+
+{:.center}
+![PumpkinCurry2](/assets/images/PumpkinCurry2.jpg "PumpkinCurry2")
+
+{:.center}
+![PumpkinCurry3](/assets/images/PumpkinCurry3.jpg "PumpkinCurry3")
