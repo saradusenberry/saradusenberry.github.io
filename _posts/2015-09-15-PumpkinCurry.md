@@ -17,20 +17,37 @@ Picture of Finished Curry
 
 >##Vegetarian Pumpkin Curry
 *Ingredients:*
-•	1 tablespoon coconut oil
-•	1 large onion, chopped
-•	4 garlic cloves, minced
-•	1 cup pumpkin puree 
-•	3 medium tomatoes
-•	1 cup water
-•	1/4 cup coconut milk
-•	1 can black beans (15 oz, I choose low sodium)
-•	3 cups cooked garbanzo beans (canned, 1 ½ cups if starting with dried beans)
-•	1-3 tablespoons red curry paste (start with one, add to spicy level)
-•	2 tablespoons honey or agave
-•	1 teaspoon cayenne (optional- add if you enjoy spice!)
-•	2 cups cooked quinoa or rice
-*If starting with dry garbanzo beans, rinse beans and allow them to soak for approximately 6 hours or overnight. Once beans have soaked, bring beans ad water to a boil.  Reduce heat, cover, and simmer for 3 hours.
-*In a separate large pan cook onion and garlic over medium heat for 5 minutes.
-*Add tomatoes, pumpkin puree, water, coconut milk, black beans, garbanzo beans, red curry paste, honey or agave, and cayenne (optional) to pan.  Stir well and allow ingredients to combine and simmer for 15 minutes.
-*Serve over quinoa or rice.
+
+>•	1 tablespoon coconut oil
+
+>•	1 large onion, chopped
+
+>•	4 garlic cloves, minced
+
+>•	1 cup pumpkin puree 
+
+>•	3 medium tomatoes
+
+>•	1 cup water
+
+>•	1/4 cup coconut milk
+
+>•	1 can black beans (15 oz, I choose low sodium)
+
+>•	3 cups cooked garbanzo beans (canned, 1 ½ cups if starting with dried beans)
+
+>•	1-3 tablespoons red curry paste (start with one, add to spicy level)
+
+>•	2 tablespoons honey or agave
+
+>•	1 teaspoon cayenne (optional- add if you enjoy spice!)
+
+>•	2 cups cooked quinoa or rice
+
+>1. If starting with dry garbanzo beans, rinse beans and allow them to soak for approximately 6 hours or overnight. Once beans have soaked, bring beans ad water to a boil.  Reduce heat, cover, and simmer for 3 hours.
+
+>2. In a separate large pan cook onion and garlic over medium heat for 5 minutes.
+
+>3. Add tomatoes, pumpkin puree, water, coconut milk, black beans, garbanzo beans, red curry paste, honey or agave, and cayenne (optional) to pan.  Stir well and allow ingredients to combine and simmer for 15 minutes.
+
+>4. Serve over quinoa or rice.
