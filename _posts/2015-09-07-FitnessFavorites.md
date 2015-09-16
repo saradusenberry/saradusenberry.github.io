@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Top Fitness Picks of The Moment
+title: Top Fitness Picks of the Moment
 img: Fitness.jpg
 excerpt: Anyone else *super* hype on fitness lately?! Lately, I have been on a huge fitness boost!
 style: |
