@@ -53,13 +53,13 @@ Picture of Finished Curry
 
 >•	2 cups cooked quinoa or rice
 
->1. If starting with dry garbanzo beans, rinse beans and allow them to soak for approximately 6 hours or overnight. Once beans have soaked, bring beans ad water to a boil.  Reduce heat, cover, and simmer for 3 hours.
-
->2. In a separate large pan cook onion and garlic over medium heat for 5 minutes.
-
->3. Add tomatoes, pumpkin puree, water, coconut milk, black beans, garbanzo beans, red curry paste, honey or agave, and cayenne (optional) to pan.  Stir well and allow ingredients to combine and simmer for 15 minutes.
-
->4. Serve over quinoa or rice.
+>If starting with dry garbanzo beans, rinse beans and allow them to soak for approximately 6 hours or overnight. Once beans have soaked, bring beans ad water to a boil.  Reduce heat, cover, and simmer for 3 hours.
+>
+>In a separate large pan cook onion and garlic over medium heat for 5 minutes.
+>
+>Add tomatoes, pumpkin puree, water, coconut milk, black beans, garbanzo beans, red curry paste, honey or agave, and cayenne (optional) to pan.  Stir well and allow ingredients to combine and simmer for 15 minutes.
+>
+>Serve over quinoa or rice.
 
 {:.center}
 ![PumpkinCurry2](/assets/images/PumpkinCurry2.jpg "PumpkinCurry2")
