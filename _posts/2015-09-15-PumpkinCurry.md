@@ -64,3 +64,7 @@ With the excitement of this season kicking off (see what I did there?!), I have 
 
 {:.center}
 ![PumpkinCurry3](/assets/images/PumpkinCurry3.jpg "PumpkinCurry3")
+
+If you give this recipe a try, let me know what you think!
+
+xo Sara
