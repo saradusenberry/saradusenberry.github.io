@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 3 Places You Must Check Out While in Lake Tahoe
+isFeatured: true
+featuredImg: LakeTahoeAdventures.png
 img: Tahoe.jpg
 excerpt: Tips on lodging, dining, and recreational activities to indulge in while exploring Lake Tahoe.
 style: |
@@ -57,7 +59,6 @@ If you are looking for a nice lunch spot by the water, [Riva Grill]( http://www.
 
 ---
 
-I hope that these three places make it onto your Lake Tahoe Bucket List and that you enjoy them as much as I did.  I would love to hear about any other hidden gems in the Tahoe area that you may know about! 
+I hope that these three places make it onto your Lake Tahoe Bucket List and that you enjoy them as much as I did.  I would love to hear about any other hidden gems in the Tahoe area that you may know about!
 
 xo Sara
-
