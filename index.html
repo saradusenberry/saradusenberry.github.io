@@ -23,12 +23,6 @@ cols: 3
           <div {% if first %} class="item active" {% else %} class="item" {% endif %}>
             <a class="btn btn-lg btn-primary" href="{{ post.url | prepend: site.baseurl }}" role="button">
               <img src="assets/images/{{ post.featuredImg }}" alt="Featured Blog">
-              <div class="container">
-                <div class="carousel-caption">
-                  <!-- <h1>{{ post.title }}</h1>
-                  <p><a class="btn btn-lg btn-primary" href="{{ post.url | prepend: site.baseurl }}" role="button">View</a></p> -->
-                </div>
-              </div>
             </a>
           </div>
           {% assign first = false %}
