@@ -1,16 +1,15 @@
 ---
 layout: post
-title: Hiking Series: 24 Hours in Mount Rainier 
+title: Hiking Series: 24 Hours in Mount Rainier
 isFeatured: true
 featuredImg: Rainier.png
 img: Rainier.jpg
 excerpt: What would you do if you had 24 hours in Mount Rainier National Park?
 style: |
-    img[alt=Rainier] {
-      width: 40em;
-    }
+  img[alt=Rainier] {
+    width: 40em;
+  }
 ---
-
 
 {:.center}
 ![MountRainier](/assets/images/MountRainier.jpg "MountRainier")
