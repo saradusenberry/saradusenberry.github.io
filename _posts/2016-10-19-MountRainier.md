@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hiking Series: 24 Hours in Mount Rainier
+title: "Hiking Series: 24 Hours in Mount Rainier"
 isFeatured: true
 featuredImg: Rainier.png
 img: Rainier.jpg
