@@ -25,7 +25,7 @@ style: |
 
 Lake Tahoe is one of the most beautiful places on earth. With it's crystal blue waters and snow-cappend mountains it is hard to beat.  Here are three of my favorite places to check out in the Lake Tahoe area.
 
-##LODGING- BASECAMP HOTEL
+## LODGING- BASECAMP HOTEL
 
 Looking for a place to stay in the South Lake Tahoe/ Stateline area? You absolutely should check out the relaxing, pet-friendly, outdoorsy vibes of [Basecamp]( http://www.basecamphotels.com/)! My husband and I stumbled upon this gem when looking for a pet-friendly hotel in the area and were intrigued by the outdoors-inspired décor in the rooms.  Little did we know that once we arrived at Basecamp we would be even more impressed!
 
@@ -42,7 +42,7 @@ Overall, I would highly recommend giving Basecamp a peak when booking a trip to 
 {:.center}
 ![Basecamp3](/assets/images/Basecamp3.jpg "Basecamp3")
 
-##EATING- RIVA GRILL
+## EATING- RIVA GRILL
 
 If you are looking for a nice lunch spot by the water, [Riva Grill]( http://www.rivagrill.com/) is an excellent choice.  I have eaten there almost every time that I have been to Tahoe.  My favorite thing to order is there California Burger, which is a unique burger with avocado (of course!), pepper jack cheese, bacon, and teriyaki sauce.  Talk about yum! Other notable options are their Lobster Bisque and Grilled Fish Tacos.  Riva is also known for their [Wet Woody](http://www.rivagrill.com/the-wet-woody.html) a frozen rum beverage that comes in a variety of flavors.
 
@@ -52,7 +52,7 @@ If you are looking for a nice lunch spot by the water, [Riva Grill]( http://www.
 {:.center}
 ![Riva2](/assets/images/Riva2.jpg "Riva2")
 
-##WATER SPORTS- SOUTH LAKE TAHOE STAND UP PADDLE
+## WATER SPORTS- SOUTH LAKE TAHOE STAND UP PADDLE
 
 [South Lake Tahoe Stand Up Paddle]( http://southtahoesup.com/) is located in South Lake at El Dorado Beach.  Kayaks, pedal boats and stand up paddleboards are available for rent at reasonable prices.  I would recommend giving paddle boarding a try; it is seriously *so* much fun and a truly unique experience! If you have never ridden a paddleboard before, they offer lessons to get you started on the right foot, however, I think after about 10-15 minutes you will get the hang of it.  There’s really nothing like getting out on the water and seeing the lake from a different perspective.  
 
