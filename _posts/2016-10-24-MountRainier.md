@@ -21,7 +21,7 @@ Since moving to the west coast, the hubs and I have been constantly adding more 
 
 ## THE ARRIVAL
 
-My husband and I left bright and early on Thursday morning and landed at SeaTac by 11:00am.  After acquiring a rental car and making a pit stop for lunch, we were on our way to Mount Rainier National Park. The drive to the park was beautiful.  Since we live in California, it had been quite some time since either of us had seen so much green!  We got our first sites of the mountain only 5 minutes from the airport. The weather was incredibly clear and our jaws literally dropped every time we turned a corner and had a peak at the snow covered summit. 
+My husband and I left bright and early on Thursday morning and landed at SeaTac by 11:00am.  After acquiring a rental car and making a pit stop for lunch, we were on our way to Mount Rainier National Park. The drive to the park was beautiful.  Since we live in California, it had been quite some time since either of us had seen so much green!  We got our first sights of the mountain only 5 minutes from the airport. The weather was incredibly clear and our jaws literally dropped every time we turned a corner and had a peak at the snow covered summit. 
 
 
 {:.center}
@@ -31,7 +31,7 @@ My husband and I left bright and early on Thursday morning and landed at SeaTac 
 {:.center}
 ![Rainier](/assets/images/Rainier.jpg "Rainier")
 
-Around 3:00pm we were able to check into our room at the Paradise Inn located in the Paradise region of the park.  We grabbed a quick snack from the cafe and went out to explore. We took it easy with a short and easy hike close to the visitor center, and spent most our the time taking about a zillion pictures of the mountain. 
+Around 3:00pm we were able to check into our room at the Paradise Inn located in the Paradise region of the park.  We grabbed a quick snack from the cafe and went out to explore. We took it easy with a short and easy hike close to the visitor center, and spent most of our time taking about a zillion pictures of the mountain. 
 
 We closed the night with a nice dinner in the Inn’s dining room and hit the sack early.
 
@@ -55,4 +55,7 @@ As we got further into the hike we were gradually gaining speed, we were cold an
 {:.center}
 ![RainierWaterfall](/assets/images/RainierWaterfall.jpg "RainierWaterfall")
 
-After changing into something warm, having lunch, and some hot tea, our 24 hours at Mount Rainier came to a close. We were off to the Seattle area, where we had an amazing time celebrating my dear friend and her new hubby.  I am beyond happy and feel blessed that we were able make the trip to Washington and spend this special time with friends. Life’s an adventure grab it by the reins and make the most of all experiences, rain or shine.
+After changing into something warm, having lunch, and some hot tea, our 24 hours at Mount Rainier came to a close. We were off to the Seattle area, where we had an amazing time celebrating my dear friend and her new hubby.  I am beyond happy and feel blessed that we were able make the trip to Washington and spend this special time with friends. Life’s an adventure, grab it by the reins and make the most of all experiences, rain or shine.
+
+
+xo Sara
