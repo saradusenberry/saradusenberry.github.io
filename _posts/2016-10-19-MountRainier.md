@@ -14,12 +14,12 @@ style: |
 {:.center}
 ![MountRainier](/assets/images/MountRainier.jpg "MountRainier")
 
-##WHY MOUNT RAINIER
+## WHY MOUNT RAINIER
 
 Since moving to the west coast, the hubs and I have been constantly adding more and more places to visit to our bucket list. With so many amazing places within driving distance or just a short flight away, the list is quickly growing. Mount Rainier has been on our list for quite some time, but it’s been easy to put off for later- until recently! One of my closest friends invited us to attend her wedding in September in Issaquah, Washington, just 30 minutes outside of Seattle and within 2 hours of Mount Rainier. Sounds like fate to me!
 
 
-##THE ARRIVAL
+## THE ARRIVAL
 
 My husband and I left bright and early on Thursday morning and landed at SeaTac by 11:00am.  After acquiring a rental car and making a pit stop for lunch, we were on our way to Mount Rainier National Park. The drive to the park was beautiful.  Since we live in California, it had been quite some time since either of us had seen so much green!  We got our first sites of the mountain only 5 minutes from the airport. The weather was incredibly clear and our jaws literally dropped every time we turned a corner and had a peak at the snow covered summit. 
 
@@ -35,7 +35,7 @@ Around 3:00pm we were able to check into our room at the Paradise Inn located in
 
 We closed the night with a nice dinner in the Inn’s dining room and hit the sack early.
 
-##A RAINY DAY HIKE
+## A RAINY DAY HIKE
 
 I woke the next morning to the sound of pouring rain and felt a ping of disappointment. Today was the day we had planned to do the 5.5 mile Skyline Loop trail. After a bit we threw on our hiking and rain gear and headed to the cafe for breakfast and coffee.  We were hoping that the rain would slow or come to a stop, but there was no end in site. 
 
