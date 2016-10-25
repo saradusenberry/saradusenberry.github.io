@@ -5,7 +5,7 @@ isFeatured: true
 featuredImg: Rainier.png
 img: Rainier.jpg
 excerpt: What would you do if you had 24 hours in Mount Rainier National Park?
-style:|
+style: |
     img[alt=Rainier] {
       width: 40em;
     }
