@@ -3,7 +3,7 @@ layout: post
 title: Hiking Series: 24 Hours in Mount Rainier 
 isFeatured: true
 featuredImg: Rainier.png
-Img:
+Img: Rainier.jpg
 excerpt: What would you do if you had 24 hours in Mount Rainier National Park?
 ---
 
@@ -15,6 +15,9 @@ Since moving to the west coast, the hubs and I have been constantly adding more 
 ##THE ARRIVAL
 
 My husband and I left bright and early on Thursday morning and landed at SeaTac by 11:00am.  After acquiring a rental car and making a pit stop for lunch, we were on our way to Mount Rainier National Park. The drive to the park was beautiful.  Since we live in California, it had been quite some time since either of us had seen so much green!  We got our first sites of the mountain only 5 minutes from the airport. The weather was incredibly clear and our jaws literally dropped every time we turned a corner and had a peak at the snow covered summit. 
+
+{:.center}
+![Rainier](/assets/images/Rainier.jpg "Rainier")
 
 Around 3:00pm we were able to check into our room at the Paradise Inn located in the Paradise region of the park.  We grabbed a quick snack from the cafe and went out to explore. We took it easy with a short and easy hike close to the visitor center, and spent most our the time taking about a zillion pictures of the mountain. 
 
