@@ -5,6 +5,10 @@ isFeatured: true
 featuredImg: Rainier.png
 Img: Rainier.jpg
 excerpt: What would you do if you had 24 hours in Mount Rainier National Park?
+|
+    img[alt=Rainier] {
+      width: 40em;
+    }
 ---
 
 
@@ -32,5 +36,3 @@ Once we saw a few other groups set out on the trails, we began our rainy adventu
 As we got further into the hike we were gradually gaining speed, we were cold and were dreaming of the warm clothes and hot tea we had waiting for us back at the inn. Though we were completely soaked through by the time we finished the hike, we agreed that it was totally worth it. I especially enjoy this picture of the two of us near the end of hike, can you tell how cold we were?!
 
 After changing into something warm, having lunch, and some hot tea, our 24 hours at Mount Rainier came to a close. We were off to the Seattle area, where we had an amazing time celebrating my dear friend and her new hubby.  I am beyond happy and feel blessed that we were able make the trip to Washington and spend this special time with friends. Life’s an adventure grab it by the reins and make the most of all experiences, rain or shine.
-
-In my next post I will share pictures from our adventures in the Seattle area.  
