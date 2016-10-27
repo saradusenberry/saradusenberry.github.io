@@ -30,7 +30,7 @@ When you are feeling the black and white vibes! This monochromatic look is great
 ![FitnessOutfit3](/assets/images/FitnessOutfit3.jpg "FitnessOutfit3")
 
 
-## Outfit 2: Born To Be Bold
+## Outfit 2: Be Bold
 
 
 {:.center}
