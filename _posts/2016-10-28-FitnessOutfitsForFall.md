@@ -12,7 +12,7 @@ style: |
 ---
 
 
-## Outfit #1: Classic With A Pinch Of Fun
+## Outfit 1: Classic With A Pinch Of Fun
 
 
 {:.center}
@@ -30,7 +30,7 @@ When you are feeling the black and white vibes! This monochromatic look is great
 ![FitnessOutfit3](/assets/images/FitnessOutfit3.jpg "FitnessOutfit3")
 
 
-## Outfit #2: Born To Be Bold
+## Outfit 2: Born To Be Bold
 
 
 {:.center}
@@ -44,7 +44,7 @@ For those days where you are up for a pop of color! These are the __ leggings fr
 ![FitnessOutfit5](/assets/images/FitnessOutfit5.jpg "FitnessOutfit5")
 
 
-## Outfit #3: Crazy About Prints
+## Outfit 3: Crazy About Prints
 
 
 {:.center}
