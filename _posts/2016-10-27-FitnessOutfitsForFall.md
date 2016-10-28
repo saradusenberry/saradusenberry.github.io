@@ -9,6 +9,9 @@ style: |
   img[alt=FitnessOutfit1] {
     width: 40em;
   }
+  img {
+    image-orientation: from-image;
+  }
 ---
 
 
