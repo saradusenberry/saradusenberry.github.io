@@ -6,12 +6,7 @@ featuredImg: FitnessOutfit6.png
 img: FitnessOutfit5.JPG
 excerpt: I share with you my current favorite outfits for all things fitness. 
 style: |
-  img[alt=FitnessOutfit1] {
-    width: 40em;
-  }
-  img {
-    image-orientation: from-image;
-  }
+
 ---
 
 
