@@ -3,7 +3,7 @@ layout: post
 title: "3 Go-To Fitness Outfits For Fall"
 isFeatured: true
 featuredImg: FitnessOutfit6.png
-img: FitnessOutfit5.JPG
+img: FitnessOutfitFeatured.png
 excerpt: I share with you my current favorite outfits for all things fitness. 
 style: |
 
