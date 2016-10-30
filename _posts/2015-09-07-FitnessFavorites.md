@@ -4,7 +4,7 @@ title: Top Fitness Picks of the Moment
 isFeatured: true
 featuredImg: FitnessFavs.png
 img: Fitness.jpg
-excerpt: Anyone else *super* hype on fitness lately?! Lately, I have been on a huge fitness boost!
+excerpt: I have been on a huge health kick lately- here are some of my fitness-related favorites!
 style: |
     img[alt=Fitness] {
       width: 40em;
