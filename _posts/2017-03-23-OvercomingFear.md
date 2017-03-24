@@ -3,10 +3,12 @@ layout: post
 title: "Overcoming Fear: Learning to Snowboard"
 isFeatured: true
 featuredImg:
-img: BBG.jpg
+img: Snowboarding1.jpg
 excerpt: 
 ---
 
+{:.center}
+![Snowboarding1](/assets/images/Snowboarding1.jpg "Snowboarding1")
 
 ## My Fear
 
@@ -20,11 +22,17 @@ Fast forward to December 2015, 3 and half years after we graduated and moved awa
 
 My first day at the resort was a complete fail. I spent the entire day on what wouldn't even be considered the bunny hill. I couldn't even stand up. By the end of the day my entire body ached just from attempting to get up. It was decided that myself and my friend would take a beginners snowboard lesson the next day. This lesson was absolutely key and is what pushed me to continue trying to snowboard after my first weekend. The instructor was persistent and would not take ‘I can't’ for and answer. When my husband was trying to teach me on the first day, it was so easy to tell him no (along with other expletives!), but it's difficult to say that to a complete stranger, who you are paying to teach you the skills needed to progress.
 
+{:.center}
+![Snowboarding2](/assets/images/Snowboarding2.jpg "Snowboarding2")
+
 ## Season One Progression
 
 Each time I was on the mountain, I had to fight and internal battle. One side of me wanted to give up and stop pushing myself. The anxiety was real. But the other side of me wanted to push myself. As the season went on, I slowly become comfortable with the bunny slopes. I even learned how to properly make turns, though they were quite wide. I gained more and more confidence with each day on the mountain. Gaining too much speed and losing control were still fears always in the back of my mind. During last weekend of the season, I got up the nerve to try an intermediate slope, and to my disbelief, it wasn't a total failure! I finished the season proud of my progress both physically and mentally.
 
 Now at the end of my second season of snowboarding, with about 20 days on the mountain since my first day, I can say that anxiety is still a struggle each time I try a different slope. However, the confidence I have earned over the course of pushing myself out of my comfort zone is absolutely incredible. I am not saying that it is easy to overcome your fears, but it is rewarding.
+
+{:.center}
+![Snowboarding3](/assets/images/Snowboarding3.jpg "Snowboarding3")
 
 ## 5 Tips To Overcoming Fear
 >1. Surround yourself with the support of friends.
