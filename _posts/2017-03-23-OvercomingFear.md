@@ -2,9 +2,9 @@
 layout: post
 title: "Overcoming Fear: Learning to Snowboard"
 isFeatured: true
-featuredImg:
-img: Snowboarding1.jpg
-excerpt: 
+featuredImg:SnowboardingSquare.png
+img: SnowboardingSquare.png
+excerpt: How I conquered my fears and learned to snowboard.
 ---
 
 {:.center}
